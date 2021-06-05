@@ -1,0 +1,25 @@
+{
+  "name": "discord.js-bot-base",
+  "version": "1.0.0",
+  "description": "Discord.JS bot base",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnSebii/Discord.JS-bot-base.git"
+  },
+  "author": "OnSebii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnSebii/Discord.JS-bot-base/issues"
+  },
+  "homepage": "https://github.com/OnSebii/Discord.JS-bot-base#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7"
+  }
+}
